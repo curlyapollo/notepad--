@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUwmmAiql6z+UNlH7ZFiMqIxkNhkApgkwcejE/B8ilHQNiOk8h4boOzTvS3qKfp1q/PElR1DXr6FjiEmDXAJbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79653\\RiderProjects\\MyPeers\\peer4\\peer4\\peer4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79653\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
